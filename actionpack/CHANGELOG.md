@@ -1,3 +1,8 @@
+*   Element of the `collection_check_boxes` and `collection_radio_buttons` can
+    optionally contain html attributes as the last element of the array.
+
+    *Vasiliy Ermolovich*
+
 ## unreleased ##
 
 *   Fix an issue where partials with a number in the filename weren't being digested for cache dependencies.
